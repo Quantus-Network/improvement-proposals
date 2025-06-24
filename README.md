@@ -11,6 +11,7 @@ QIPs are design documents providing information to the Quantus community or desc
 - **QIP-0001**: QIP Purpose and Guidelines - Defines the QIP process and formatting standards
 - **QIP-0002**: Hierarchical Deterministic Wallets For Lattice Keys - Post-quantum HD wallet implementation
 - **QIP-0003**: RSA-Shortcut Proof of Work - Hybrid classical/quantum mining algorithm
+- **QIP-0004**: Post-Quantum Cryptography Integration in libp2p Networking Stack - PQC support for networking layer
 
 ## Contributing
 
